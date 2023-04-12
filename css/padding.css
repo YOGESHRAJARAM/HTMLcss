@@ -1,0 +1,139 @@
+.back{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-right: 10px;
+ }
+ .next{
+     padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 10px;
+ }
+ .stretch{
+     color: white;
+     background-color: rgb(46,164,79);
+     border-radius: 3px;
+     padding-left: 25px;
+     padding-top: 13px;
+     padding-bottom: 13px;
+     padding-right: 25px;
+     border: none;
+     cursor:pointer;
+     font-weight: bold;
+     font-size: 14px;
+     transition: padding 0.5s;
+ }
+ .stretch:hover{
+     padding-left: 35px;
+     padding-top: 17px;
+     padding-bottom: 17px;
+     padding-right: 35px;
+ }
+ .shadow{
+     color: white;
+     background-color: rgb(46,164,79);
+     border-radius: 3px;
+     padding-left: 25px;
+     padding-top: 13px;
+     padding-bottom: 13px;
+     padding-right: 25px;
+     border: none;
+     cursor:pointer;
+     font-weight: bold;
+     font-size: 14px;
+     transition: padding 0.5s;
+ }
+ .shadow:hover{
+     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.374) ;
+ }
+ .shadow:active{
+     padding-left: 22px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-right: 22px;
+ }
+ .one{
+     color: white;
+     background-color: rgb(46,164,79);
+     border-radius: 3px;
+     padding-left: 25px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-right: 25px;
+     border: none;
+     margin-right: 10px;
+     cursor:pointer;
+     font-weight: bold;
+     font-size: 14px;
+     transition: padding 0.2s, box-shadow 0.2s;
+ }
+ .one:hover{
+     padding-left: 35px;
+     padding-top: 13px;
+     padding-bottom: 13px;
+     padding-right: 35px;
+ }
+ .one:active{
+     padding-left: 33px;
+     padding-top: 11px;
+     padding-bottom: 11px;
+     padding-right: 33px;
+     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.374) ;
+     
+ }
+ .two{
+     color: white;
+     background-color: rgb(46,164,79);
+     border-radius: 3px;
+     padding-left: 25px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-right: 25px;
+     border: none;
+     margin-right: 10px;
+     cursor:pointer;
+     font-weight: bold;
+     font-size: 14px;
+     transition: padding 0.2s;
+ }
+ .two:hover{
+     padding-left: 35px;
+     padding-top: 13px;
+     padding-bottom: 13px;
+     padding-right: 35px;
+ }
+ .two:active{
+     padding-left: 33px;
+     padding-top: 11px;
+     padding-bottom: 11px;
+     padding-right: 33px;
+     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.374) ;
+ }
+     
+ .three{
+     color: white;
+     background-color: rgb(46,164,79);
+     border-radius: 3px;
+     padding-left: 25px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-right: 25px;
+     border: none;
+     margin-right: 10px;
+     cursor:pointer;
+     font-weight: bold;
+     font-size: 14px;
+     transition: padding 0.2s;
+ }
+ .three:hover{
+     padding-left: 35px;
+     padding-top: 13px;
+     padding-bottom: 13px;
+     padding-right: 35px;
+ }
+ .three:active{
+     padding-left: 33px;
+     padding-top: 11px;
+     padding-bottom: 11px;
+     padding-right: 33px;
+     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.374) ;
+ }
